@@ -43,3 +43,8 @@ The output CSV file includes columns such as:
 ## License
 
 This project is licensed under the MIT License.
+
+## Educational Purpose
+
+This project and the data it retrieves are shared solely for educational purposes. Please use the information responsibly and adhere to the relevant copyright and licensing agreements.
+
